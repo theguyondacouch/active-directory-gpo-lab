@@ -1,9 +1,9 @@
 # active-directory-gpo-lab
 Active Directory and Group Policy lab with role-based GPO design and validation
 
---SETUP--i
+--SETUP--
 *Diagnosed BIOS virtualization
-*Resolved EFI boot filures
+*Resolved EFI boot fialures
 *Corrected Virtual box config
 *Installed a server OS from Scratch
 
